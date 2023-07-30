@@ -1,1 +1,1 @@
-# Proyecto-Backend-Consecionaria
+npm run dev (para iniciar el proyecto)
